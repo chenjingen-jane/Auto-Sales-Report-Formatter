@@ -1,0 +1,4 @@
+*.exe
+mini_env/
+build/
+__pycache__/
